@@ -1,4 +1,6 @@
-theme: minima
+remote_theme: pages-themes/midnight@v0.2.0
 title: lucascantos's personal blog
 description: This is where I share cool stuff about my life
-author: Yours trully
+author: Lucas
+plugins:
+- jekyll-remote-theme
