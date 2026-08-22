@@ -20,4 +20,4 @@ Hopefully, some words still resonate with you or at least give you a giggle.
 
 I don't know how much tutorial is left, so I'll be ending this short post now, but there will be more in the future.
 
-**Yours trully**
+**Yours truly**
