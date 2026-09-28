@@ -1,6 +1,6 @@
 ---
 title: "Home Server and Spare Parts"
-date: 2026-08-22
+date: 2026-08-28
 ---
 
 Answer me this, dear reader: Do you have an old computer laying around? Perhaps one or two old Hard drivers? What about an old laptop, perhaps? How wonderful would it be if we could use those spare old parts for something greater and useful in this day and age. 
@@ -31,7 +31,7 @@ The computer runs, it is connected to the Network and the 4 Hard drivers work, r
 
 Now here is another question: If a scrappy computer can become a decent server why can't a phone, which is way more powerful, become one. Wait a minute...
 
-# The PHONE
+# The Phone
 
 We all hear that a smartphone today is way more powerful than the computers that sent people to the moon, but until a few months ago, I've never fully internalized this. Take Google's OnePlus 8 PRO from 2020: 12GB of RAM, 8 cores processor, 200GB of Disk. HOLY MOLLY that is Huge! PLUS! Has Wifi AND SIM Card (Internet Redundancy) a battery that lasts HOURS and a Screen. All fitting in the palm of your hand! 
 
@@ -70,7 +70,9 @@ Rapid fire on other tools I have
 - Forgeja: Why not have your own Git server, so you can version things all those small projects without making them public
 - Ad Guard: a network wide ad blocker. Amazing! but still testing it
 - Zigbee2MQTT: Smart home hub, but this is a conversation for another day.
+
 # Endcard
+
 I started this project 5 months ago, and I'm still tinkering with it. Fixing things and installing new stuff has been pretty fun and you can also share with family and friends. Of course, this is not a guide and I don't want you bore you to death with the thrills of spending hours Configuring DNS. But hey, if you do wanna talk about it, get away from me. Fuck that shit. Hours spent just to make a ping work.
 
 **Yours truly**
