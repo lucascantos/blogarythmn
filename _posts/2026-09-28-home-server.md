@@ -1,6 +1,6 @@
 ---
 title: "Home Server and Spare Parts"
-date: 2026-08-28
+date: 2026-09-28
 ---
 
 Answer me this, dear reader: Do you have an old computer laying around? Perhaps one or two old Hard drivers? What about an old laptop, perhaps? How wonderful would it be if we could use those spare old parts for something greater and useful in this day and age. 
